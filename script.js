@@ -23,10 +23,10 @@ const addLetter = () => {
     div.appendChild(span);
 
 
-    console.log(i);
+
 
     i++;
-    console.log(i);
+
 
     if (i === text.length) {
 
